@@ -1,15 +1,15 @@
-# Elysia with Bun runtime
+# Hare
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+Learning and testing bun for REST apps (w/ Elysia and Prisma)
 
 ## Development
-To start the development server run:
+
 ```bash
 bun run dev
 ```
 
-Open http://localhost:3000/ with your browser to see the result.
+## TODO
+
+- [x] Do integration test as is
+- [ ] Do integration test with Eden Treaty
+- [x] Generate OpenAPI spec + swagger-ui
